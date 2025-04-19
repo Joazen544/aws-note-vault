@@ -1,23 +1,32 @@
 {
   "main": {
-    "id": "5fafeb4b26029362",
+    "id": "cff374498b73f8a5",
     "type": "split",
     "children": [
       {
-        "id": "90c51aed97ab2dc9",
+        "id": "1440b8b666c3255f",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "068a90ae9db0348c",
+=======
+            "id": "161c8128497b5f7f",
+>>>>>>> e2e6c4e (sync: 2025-04-19 19:19:14)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "ELB Elastic Load Balancer.md",
+=======
+                "file": "Route 53.md",
+>>>>>>> e2e6c4e (sync: 2025-04-19 19:19:14)
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "ELB Elastic Load Balancer"
             }
           },
@@ -61,20 +70,26 @@
           }
         ],
         "currentTab": 3
+=======
+              "title": "Route 53"
+            }
+          }
+        ]
+>>>>>>> e2e6c4e (sync: 2025-04-19 19:19:14)
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7aa00d4b00d935dc",
+    "id": "4f6bb8a834f98d45",
     "type": "split",
     "children": [
       {
-        "id": "a6f22fa3a8ec7af1",
+        "id": "b1b8210c96e81148",
         "type": "tabs",
         "children": [
           {
-            "id": "3c48ec4ed2a1ff49",
+            "id": "60a978cd1136f508",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +102,7 @@
             }
           },
           {
-            "id": "d01d08097bdcebb8",
+            "id": "d2d0f35b98ff68b7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -104,7 +119,7 @@
             }
           },
           {
-            "id": "d2ccfe5d87fdf5d4",
+            "id": "766841da9930452a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,20 +135,25 @@
     "width": 300
   },
   "right": {
-    "id": "1f5ee45c5d763ad3",
+    "id": "a67d1f426578bb93",
     "type": "split",
     "children": [
       {
-        "id": "b57bf5c26f9ef2e0",
+        "id": "55da6011431ced10",
         "type": "tabs",
         "children": [
           {
-            "id": "4d5f63a82667756a",
+            "id": "1f24d180cd279353",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "collapseAll": false,
+=======
+                "file": "Route 53.md",
+                "collapseAll": true,
+>>>>>>> e2e6c4e (sync: 2025-04-19 19:19:14)
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -142,25 +162,29 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks"
+=======
+              "title": "Backlinks for Route 53"
+>>>>>>> e2e6c4e (sync: 2025-04-19 19:19:14)
             }
           },
           {
-            "id": "a0352918ced3ec50",
+            "id": "e17623af85c55190",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gateway Load Balancer.md",
+                "file": "Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gateway Load Balancer"
+              "title": "Outgoing links from Route 53"
             }
           },
           {
-            "id": "3c47b6cf30b33f4d",
+            "id": "411537b690d7eb12",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,18 +199,26 @@
             }
           },
           {
-            "id": "81a5923cffbe65fe",
+            "id": "bf6417b16838c204",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Gateway Load Balancer.md",
+=======
+                "file": "Route 53.md",
+>>>>>>> e2e6c4e (sync: 2025-04-19 19:19:14)
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Gateway Load Balancer"
+=======
+              "title": "Outline of Route 53"
+>>>>>>> e2e6c4e (sync: 2025-04-19 19:19:14)
             }
           }
         ]
@@ -205,6 +237,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "3c48ec4ed2a1ff49",
   "lastOpenFiles": [
     "模擬題/Tutorial考題.md",
@@ -239,8 +272,20 @@
     "Network Load Balancer.md",
     "ELB Elastic Load Balancer.md",
     "Application Load Balancer.md",
+=======
+  "active": "161c8128497b5f7f",
+  "lastOpenFiles": [
+    "Route Table.md",
+    "Subnet.md",
+    "Route 53.md",
+    "CloudFront.md",
+    "AWS Global Accelerator.md",
+>>>>>>> e2e6c4e (sync: 2025-04-19 19:19:14)
     "Gateway Load Balancer.md",
-    "Screenshot 2025-04-13 at 11.28.38 AM.png",
-    "This is the AWS study note.md"
+    "VPC - Virtual Private Cloud.md",
+    "Images/Pasted image 20250419184530.png",
+    "Network Load Balancer.md",
+    "Application Load Balancer.md",
+    "Images"
   ]
 }
