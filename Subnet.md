@@ -1,0 +1,1 @@
+[[VPC]] 中的 IP 地址範圍，一個 availability zone 只能有一個 subnet，裡面可以放多個 instance 我們也可以將 Subnet 連線至網際網路、其他 VPC 和我們自己的資料中心，並使用 [[Route Table]] 在子網往返路由流量
